@@ -12,8 +12,9 @@
 .new-expense button {
   font: inherit;
   cursor: pointer;
+  font-style: bold;
   padding: 1rem 2rem;
-  border: 1px solid gray;
+  border: 1px solid white;
   background-color: gray;
   color: white;
   border-radius: 12px;
